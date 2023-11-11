@@ -23,3 +23,7 @@ public class parial2
 
         Console.Write("\nIngrese un número para buscar en el vector: ");
         int numeroBuscado = int.Parse(Console.ReadLine());
+        int indice = Array.IndexOf(vector, numeroBuscado);
+
+        if (indice != -1)
+        {
