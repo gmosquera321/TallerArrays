@@ -4,8 +4,22 @@ public class parial2
 {
     static void Main(string[] args)
     {
-        Console.Write("Ingrese el tamaño del vector: ");
+
+        Console.Write("Ingrese un numero: ");
         int N = int.Parse(Console.ReadLine());
 
+        int[] vector = new int[N];
+        Random random = new Random();
+        for (int i = 0; i < N; i++)
+        {
+            vector[i] = random.Next(1, 60);
 
-    }
+        }
+        Console.WriteLine("Vector generado:");
+        foreach (var num in vector)
+        {
+            Console.Write(num + " ");
+        }
+
+        Console.Write("\nIngrese un número para buscar en el vector: ");
+        int numeroBuscado = int.Parse(Console.ReadLine());

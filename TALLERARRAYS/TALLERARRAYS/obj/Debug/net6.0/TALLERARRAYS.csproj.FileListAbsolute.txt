@@ -1,0 +1,4 @@
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.AssemblyInfoInputs.cache
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.AssemblyInfo.cs
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.csproj.CoreCompileInputs.cache
