@@ -1,18 +1,18 @@
 ﻿//Dado un vector de tamaño N, llenar el vector aleatoriamente con números enteros. Pedir por pantalla un número y determinar si ese número se encuentra en el vector, en caso afirmativo, indicar su posición (índice) dentro del vector, en caso negativo, mostrar el mensaje “El número no existe”.
 using System;
-public class parial2
+public class TallerArrays
 {
     static void Main(string[] args)
     {
-
-        Console.Write("Ingrese un numero: ");
+        
+        Console.Write("Ingrese un vector: ");
         int N = int.Parse(Console.ReadLine());
 
         int[] vector = new int[N];
         Random random = new Random();
         for (int i = 0; i < N; i++)
         {
-            vector[i] = random.Next(1, 60);
+            vector[i] = random.Next(1, 100);
 
         }
         Console.WriteLine("Vector generado:");
@@ -27,3 +27,11 @@ public class parial2
 
         if (indice != -1)
         {
+            Console.WriteLine($"El número {numeroBuscado} se encuentra en la posición {indice} del vector.");
+        }
+        else
+        {
+            Console.WriteLine("El número no existe en el vector.");
+        }
+    }
+}

@@ -2,3 +2,13 @@ C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debu
 C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.AssemblyInfoInputs.cache
 C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.AssemblyInfo.cs
 C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.csproj.CoreCompileInputs.cache
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\bin\Debug\net6.0\TALLERARRAYS.exe
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\bin\Debug\net6.0\TALLERARRAYS.deps.json
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\bin\Debug\net6.0\TALLERARRAYS.runtimeconfig.json
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\bin\Debug\net6.0\TALLERARRAYS.dll
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\bin\Debug\net6.0\TALLERARRAYS.pdb
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.dll
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\refint\TALLERARRAYS.dll
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.pdb
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\TALLERARRAYS.genruntimeconfig.cache
+C:\Users\ghurt\OneDrive\Documentos\LOGICA Y P\TALLERARRAYS\TALLERARRAYS\obj\Debug\net6.0\ref\TALLERARRAYS.dll
